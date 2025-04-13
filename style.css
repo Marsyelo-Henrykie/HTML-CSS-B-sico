@@ -1,7 +1,18 @@
-a {
-  color: green;
-  text-decoration: none;
+#introducao {
+  color: gold;
 }
-a {
+.codigo {
+  color: blue;
+}
+.design {
+  color: red;
+}
+.azul {
+  color: blue;
+}
+.underline {
+  text-decoration: underline;
+}
+.grande {
   font-size: 32px;
 }
